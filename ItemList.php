@@ -1,6 +1,6 @@
 <?php
 
-$folder = "AssetBundles/";
+$folder = "/";
 $mask = "*Android*";
 $files = glob("" . $folder . $mask);
 
