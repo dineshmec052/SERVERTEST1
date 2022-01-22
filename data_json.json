@@ -1,15 +1,15 @@
 [
   {
     "name": "car-Android",
-    "version": "1"
-  },
-  {
-    "name": "devon-Android",
     "version": "2"
   },
   {
+    "name": "devon-Android",
+    "version": "3"
+  },
+  {
     "name": "helicopter-Android",
-    "version": "1"
+    "version": "7"
   },
   {
     "name": "lm-Android",
