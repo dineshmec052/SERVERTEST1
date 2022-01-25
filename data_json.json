@@ -1,23 +1,23 @@
 [
   {
     "name": "car-Android",
-    "version": 5,
+    "version": 1,
     "cached": false
   },
   {
     "name": "devon-Android",
-    "version": 3,
+    "version": 1,
     "cached": false
   },
   {
     "name": "helicopter-Android",
-    "version": 7,
+    "version": 1,
         "cached": false
 
   },
   {
     "name": "lm-Android",
-    "version": 2,
+    "version": 1,
         "cached": false
 
   },
