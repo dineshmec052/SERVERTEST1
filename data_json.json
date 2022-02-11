@@ -1,0 +1,97 @@
+{
+    "serviceStatus": true,
+    "android": [
+        {
+            "name": "car",
+            "version": "1",
+            "url": "",
+            "cached": false,
+            "category": [
+                "abc",
+                "xyz"
+            ]
+        },
+        {
+            "name": "devon",
+            "version": "2",
+            "url": "",
+            "cached": false,
+            "category": []
+        },
+        {
+            "name": "helicopter",
+            "version": "3",
+            "url": "",
+            "cached": false,
+            "category": [
+                "abc",
+                "xyz",
+                "lmn"
+            ]
+        },
+        {
+            "name": "lm",
+            "version": "1",
+            "url": "",
+            "cached": false,
+            "category": [
+                "abc",
+                "lmn"
+            ]
+        },
+        {
+            "name": "spaceman",
+            "version": "2",
+            "url": "",
+            "cached": false,
+            "category": []
+        }
+    ],
+    "ios": [
+        {
+            "name": "car",
+            "version": "1",
+            "url": "",
+            "cached": false,
+            "category": [
+                "abc",
+                "xyz"
+            ]
+        },
+        {
+            "name": "devon",
+            "version": "2",
+            "url": "",
+            "cached": false,
+            "category": []
+        },
+        {
+            "name": "helicopter",
+            "version": "3",
+            "url": "",
+            "cached": false,
+            "category": [
+                "abc",
+                "xyz",
+                "lmn"
+            ]
+        },
+        {
+            "name": "lm",
+            "version": "1",
+            "url": "",
+            "cached": false,
+            "category": [
+                "abc",
+                "lmn"
+            ]
+        },
+        {
+            "name": "spaceman",
+            "version": "2",
+            "url": "",
+            "cached": false,
+            "category": []
+        }
+    ]
+}
