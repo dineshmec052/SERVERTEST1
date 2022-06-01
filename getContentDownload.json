@@ -27,14 +27,14 @@
             "version": "1",
             "url": "https://tsssiagov.trelleborg.com/apps/vrtour/VTOUR_STATIC_FOLDER/AllInOneAR/android/car_abc_xyz_1",
             "cached": false,
-            "category": [ "Automotive", "xyz" ]
+            "category": [ "Automotive", "Agriculture" ]
         },
         {
             "name": "helicopter",
             "version": "3",
             "url": "https://tsssiagov.trelleborg.com/apps/vrtour/VTOUR_STATIC_FOLDER/AllInOneAR/android/helicopter_abc_xyz_lmn_3",
             "cached": false,
-            "category": [ "Aerospace", "Automotive", "lmn" ]
+            "category": [ "Aerospace", "Automotive", "Oil & Gas" ]
         }
     ],
     "ios": [
