@@ -7,8 +7,8 @@
             "url": "",
             "cached": false,
             "category": [
-                "abc",
-                "xyz"
+                "Agriculture",
+                "xyz","Automotive"
             ]
         },
         {
@@ -16,7 +16,7 @@
             "version": "2",
             "url": "",
             "cached": false,
-            "category": []
+            "category": ["Automotive"]
         },
         {
             "name": "helicopter",
@@ -24,8 +24,8 @@
             "url": "",
             "cached": false,
             "category": [
-                "abc",
-                "xyz",
+                "Oil & Gas",
+                "Aerospace",
                 "lmn"
             ]
         },
@@ -35,8 +35,8 @@
             "url": "",
             "cached": false,
             "category": [
-                "abc",
-                "lmn"
+                "Agriculture",
+                "Oil & Gas"
             ]
         },
         {
@@ -44,7 +44,7 @@
             "version": "2",
             "url": "",
             "cached": false,
-            "category": []
+            "category": ["Automotive"]
         }
     ],
     "ios": [
