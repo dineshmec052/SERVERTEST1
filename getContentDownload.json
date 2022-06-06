@@ -6,6 +6,7 @@
             "version" : "2",
             "url": "https://tsssiagov.trelleborg.com/apps/vrtour/VTOUR_STATIC_FOLDER/AllInOneAR/android/devon_2",
             "cached": false,
+            "fav": false,
             "category": ["Automotive","Agriculture"]
         },
         {
@@ -13,6 +14,7 @@
             "version": "1",
             "url": "https://tsssiagov.trelleborg.com/apps/vrtour/VTOUR_STATIC_FOLDER/AllInOneAR/android/lm_abc_lmn_1",
             "cached": false,
+            "fav": false,
             "category": [ "Agriculture", "Oil & Gas" ]
         },
         {
@@ -20,6 +22,7 @@
             "version": "2",
             "url": "https://tsssiagov.trelleborg.com/apps/vrtour/VTOUR_STATIC_FOLDER/AllInOneAR/android/spaceman_2",
             "cached": false,
+            "fav": false,
             "category": [ "Aerospace", "Oil & Gas" ]
         },
         {
@@ -27,6 +30,7 @@
             "version": "1",
             "url": "https://tsssiagov.trelleborg.com/apps/vrtour/VTOUR_STATIC_FOLDER/AllInOneAR/android/car_abc_xyz_1",
             "cached": false,
+            "fav": false,
             "category": [ "Automotive", "Agriculture" ]
         },
         {
@@ -34,6 +38,7 @@
             "version": "3",
             "url": "https://tsssiagov.trelleborg.com/apps/vrtour/VTOUR_STATIC_FOLDER/AllInOneAR/android/helicopter_abc_xyz_lmn_3",
             "cached": false,
+            "fav": false,
             "category": [ "Aerospace", "Automotive", "Oil & Gas" ]
         }
     ],
