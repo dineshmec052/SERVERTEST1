@@ -18,7 +18,7 @@
             "category": ["Automotive","Agriculture"]
         },
         {
-            "name": "lm",
+            "name": "Lubrication Management",
             "version": "1",
             "url": "https://tsssiagov.trelleborg.com/apps/vrtour/VTOUR_STATIC_FOLDER/AllInOneAR/android/lm_abc_lmn_1",
             "cached": false,
