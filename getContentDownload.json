@@ -8,6 +8,14 @@
             "cached": false,
             "fav": false,
             "category": ["Automotive","Agriculture"]
+        }, 
+        {
+            "name": "X",
+            "version" : "3",
+            "url": "https://tsssiagov.trelleborg.com/apps/vrtour/VTOUR_STATIC_FOLDER/AllInOneAR/android/devon_2",
+            "cached": false,
+            "fav": false,
+            "category": ["AutomotiveX","AgricultureX"]
         },
         {
             "name": "Jet Engines Seals",
