@@ -10,7 +10,7 @@
             "category": ["Automotive","Agriculture"]
         }, 
         {
-            "name": "X",
+            "name": "Healthcare and Medical",
             "version" : "3",
             "url": "https://tsssiagov.trelleborg.com/apps/vrtour/VTOUR_STATIC_FOLDER/AllInOneAR/android/devon_2",
             "cached": false,
@@ -18,7 +18,7 @@
             "category": ["AutomotiveX","AgricultureX"]
         },
         {
-            "name": "Jet Engines Seals",
+            "name": "Aerospace",
             "version" : "1",
             "url": "https://tsssiagov.trelleborg.com/apps/vrtour/VTOUR_STATIC_FOLDER/AllInOneAR/android/devon_2",
             "cached": false,
